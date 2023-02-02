@@ -14,7 +14,7 @@
 - <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> SQL: experience since 2011
 - <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="ssis" width="40" height="40"/> SSIS: experience since 2012
 - <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> GCP (BigQuery, Composer, Storage): experience since 2019
-- <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="airflow" width="40" height="40"/> Apache Airflow: experience since 2019
+- <img src="https://d33wubrfki0l68.cloudfront.net/20f44190801d93434031e849f6f436c72c86f067/1ae72/assets/svg/airflow-icon.svg" alt="airflow" width="40" height="40"/> Apache Airflow: experience since 2019
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  MongoDB: experience since 2022
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> PostgreSQL: experience since 2022
 - <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" alt="databricks" width="40" height="40"/> Databricks (Spark and Python): basic level
